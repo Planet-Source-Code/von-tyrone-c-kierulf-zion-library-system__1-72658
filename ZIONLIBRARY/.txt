@@ -1,0 +1,11 @@
+
+
+
+Book ID: B000000001
+Title: ADVANCED ACCTG.1
+Author: NENITA MEJORDA
+Publishers Name: JMC PUBLISHING HOUSE
+Category: Language.
+Price: $230.00
+ISBN: 7-777-77777-7
+________________________________________________
